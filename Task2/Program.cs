@@ -12,7 +12,6 @@ namespace Task2
             if (number == luckyNumber)
             {
                 Console.WriteLine("Bingo wygrales");
-
             }
             else
             {
